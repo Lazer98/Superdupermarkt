@@ -1,0 +1,15 @@
+Bezeichnung,Qualität,Verfallsdatum,Preis,Stichtag(Wein)
+ProductNotSupposedToPass,7,2023-07-20,5.99
+Ananas,7,2023-07-28,5.99
+Banane,3,2023-07-29,1.99
+Wasser,10,2024-08-08,0.99
+Pfirsich,7,2023-08-01,2.99
+Gurke,6,2023-08-03,0.59
+Tomate,5,2023-08-04,0.89
+Brot,6,2023-08-03,1.29
+Nektarine,8,2023-08-01,1.39
+Wein,20,2023-07-28,5.99,2023-07-25
+Wein,50,2023-07-28,5.99,2023-07-25
+Kaese,50,2023-09-28,2.49
+Kaese,50,2023-08-10,2.49
+Kavier,90,2023-08-23,90.0
